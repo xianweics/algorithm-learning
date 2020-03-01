@@ -1,1 +1,1 @@
-# algorithm-learning
+# Algorithm Learning
