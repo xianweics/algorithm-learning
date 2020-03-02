@@ -5,7 +5,7 @@
 `week` + 第几周 + `-` + 专题名。
 - 例如: 第一周，则文件夹名为 `week1-array`
 
-## leetcode文件名规范(2种方式)
+## leetcode文件名规范(2种方式，选其一)
 
 1. 使用`leetcode` + 题号 创建文件。
   - 例如：leetcode第5题，这文件名为 `leecode5.md`
