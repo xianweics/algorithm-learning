@@ -31,7 +31,7 @@
 
 
 <!-- refs -->
-[q128]:https://github.com/chenxinlong/leetcode/blob/master/algs/128.go 
+[q128]:https://github.com/chenxinlong/leetcode/blob/master/algs/128.go#L61~L93 
 [q1222]:https://github.com/chenxinlong/leetcode/blob/master/algs/1222.go 
 [q1252]:https://github.com/chenxinlong/leetcode/blob/master/algs/1252.go 
 [q1266]:https://github.com/chenxinlong/leetcode/blob/master/algs/1266.go 
