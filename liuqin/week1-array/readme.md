@@ -3,4 +3,4 @@
 ## 题库
 
 #### week1 数组
-[1、两数之和](https://github.com/Qiner0900/algorithm/issues/1)
+[121. 买卖股票的最佳时机](https://github.com/Qiner0900/algorithm/issues/2)
