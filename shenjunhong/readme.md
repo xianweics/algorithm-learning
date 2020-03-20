@@ -1,3 +1,9 @@
-1. [leecode1-题目](https://www.baidu.com)
-2. [leecode2-题目](你个人github或者其他第三方地址)
-3. [leecode10-题目](你个人github或者其他第三方地址)
+## [数组](./week1-array)
+
+1. [股票最佳时机2](./week1-array/股票最佳时机2.md)
+2. [股票最佳时机3](./week1-array/股票最佳时机2.md)
+3. [删除排序数组中的重复项](./week1-array/删除排序数组中的重复项.md)
+
+## [动态规划](./week2-dynamic)
+
+1. [爬楼梯](./week2-dynamic/爬楼梯.md)
