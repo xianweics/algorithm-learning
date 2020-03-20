@@ -12,5 +12,6 @@
 ## [动态规划](./week2-dynamic)
 
 1. [最长回文子串](./week2-dynamic/最长回文子串.md)
-1. [爬楼梯](./week2-dynamic/爬楼梯.md)
+2. [爬楼梯](./week2-dynamic/爬楼梯.md)
+3. [解码方法](./week2-dynamic/解码方法.md)
 
