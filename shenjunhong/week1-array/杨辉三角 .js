@@ -21,3 +21,4 @@ var generate = function (numRows) {
   }
   return result;
 };
+时间复杂度为O(2的n次方)

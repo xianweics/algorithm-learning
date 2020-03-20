@@ -20,3 +20,5 @@ const val = /* maxProfit([7,1,5,3,6,4]); */
 /* maxProfit([1,2,3,4,5]) */
 maxProfit([7,6,4,3,1])
 console.log('maxProfit', val);
+
+时间复杂度为O(n)

@@ -30,3 +30,5 @@ var val =
   maxProfit([3, 3, 5, 0, 0, 3, 1, 4])
 /* maxProfit([1,2,3,4,5]) */
 console.log('val ', val)
+
+时间复杂度为O(n)
