@@ -1,2 +1,5 @@
 .idea
 *.iml
+.vscode
+leetcode
+.DS_Store
