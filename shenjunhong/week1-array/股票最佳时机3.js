@@ -31,4 +31,4 @@ var val =
 /* maxProfit([1,2,3,4,5]) */
 console.log('val ', val)
 
-时间复杂度为O(n)
+//时间复杂度为O(n)
