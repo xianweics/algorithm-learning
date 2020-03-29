@@ -14,4 +14,5 @@
 1. [最长回文子串](./week2-dynamic/最长回文子串.md)
 2. [爬楼梯](./week2-dynamic/爬楼梯.md)
 3. [解码方法](./week2-dynamic/解码方法.md)
+4. [最大子序和](week2-dynamic/最大子序和.md)
 

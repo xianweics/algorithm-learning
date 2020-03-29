@@ -7,3 +7,5 @@
 ## [动态规划](./week2-dynamic)
 
 1. [爬楼梯](./week2-dynamic/爬楼梯.md)
+2. [打家劫舍](./week2-dynamic/打家劫舍.md)
+3. [最大子序和](./week2-dynamic/最大子序和.md)
