@@ -39,13 +39,23 @@ console.log('val: ', val);
 
 
 
-//
+//透露出本质
 var rob = function(nums) {
   if(!nums.length) return 0
-  // a是上次的最大收益
-  var a = nums[0];
-  // b是当前的最大受益
-  var b = Math.max(nums[0], nums[1]);
+  // maxMoney是上次的最大收益
+  if (nums.length === 0) {
+    return 0;
+  }
+  let maxMoney = nums[0];
+  for (let i = 0 ; i<nums.length ; i++ ) {
+      nums[i] = Math.max(nums[i-2] || 0, nums[i-3] || 0) + nums[i];
+      if (nums[i] > maxMoney) {
+          maxMoney = nums[i] 
+      }
+  }
 
-
+  return maxMoney;
 }
+
+
+//时间复杂度为O(n)
