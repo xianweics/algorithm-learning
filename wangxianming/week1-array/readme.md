@@ -2,4 +2,4 @@
 2. [leecode914. 卡牌分组](https://68wangxianming.github.io/algorithm/%E6%95%B0%E7%BB%84/base.html)
 3. [leecode605. 种花问题](https://68wangxianming.github.io/algorithm/%E6%95%B0%E7%BB%84/base.html)
 4. [leecode89. 格雷编码](https://68wangxianming.github.io/algorithm/%E6%95%B0%E7%BB%84/base.html)
-
+5. [53. 最大子序和](https://68wangxianming.github.io/algorithm/%E5%8A%A8%E6%80%81%E8%A7%84%E5%88%92/base.html)
