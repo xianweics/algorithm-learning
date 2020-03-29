@@ -11,5 +11,4 @@
 [15. 三数之和](https://github.com/Qiner0900/algorithm/issues/4)
 
 #### week2 动态规划
-[leetcode面试题 01.06. 字符串压缩](https://github.com/Qiner0900/algorithm/issues/5)（字符串）
 [64. 最小路径和](https://github.com/Qiner0900/algorithm/issues/6)
