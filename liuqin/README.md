@@ -12,3 +12,5 @@
 
 #### week2 动态规划
 [64. 最小路径和](https://github.com/Qiner0900/algorithm/issues/6)
+
+[120. 三角形最小路径和](https://github.com/Qiner0900/algorithm/issues/7)
