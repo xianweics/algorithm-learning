@@ -16,3 +16,8 @@
 3. [解码方法](./week2-dynamic/解码方法.md)
 4. [最大子序和](week2-dynamic/最大子序和.md)
 
+## [字符串](./week3-string)
+1. [有效的括号](./week3-string/有效的括号.md)
+
+## [树](./week4-tree)
+1. [相同的树](./week4-tree/相同的树.md)
