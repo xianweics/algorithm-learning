@@ -1,0 +1,3 @@
+1. [101.相同的树](https://github.com/Sihan-Tan/-algorithm-learning/blob/master/101.%E5%AF%B9%E7%A7%B0%E4%BA%8C%E5%8F%89%E6%A0%91.js)
+2. [102.对称的树](https://github.com/Sihan-Tan/-algorithm-learning/blob/master/101.%E5%AF%B9%E7%A7%B0%E4%BA%8C%E5%8F%89%E6%A0%91.js)
+3. [104.二叉树的最大深度](https://github.com/Sihan-Tan/-algorithm-learning/blob/master/104.%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E6%9C%80%E5%A4%A7%E6%B7%B1%E5%BA%A6.js)(未通过,最后用例超时)
