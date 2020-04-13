@@ -1,6 +1,8 @@
 /**
  * 内存消耗：47MB
  * 执行时间：164ms
+ * 时间复杂度：O(n/2)
+ * 空间复杂度：O(1)
  * @param {character[]} s
  * @return {void} Do not return anything, modify s in-place instead.
  */
