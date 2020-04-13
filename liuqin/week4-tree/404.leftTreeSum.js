@@ -1,6 +1,8 @@
 /**
  * 内存消耗：34.1MB
  * 执行时间：72ms
+ * 时间复杂度：O(n)
+ * 空间复杂度：O(1)
  * Definition for a binary tree node.
  * function TreeNode(val) {
  *     this.val = val;
@@ -12,10 +14,8 @@
  * @return {number}
  */
 var sumOfLeftLeaves = function(root) {
-
   let sum = 0;
   if (!root) return sum;
-
 
   const loop = (node)=>{
       if (node.left){
