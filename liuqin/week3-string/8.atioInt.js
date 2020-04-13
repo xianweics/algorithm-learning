@@ -1,6 +1,8 @@
 /**
  * 执行用时：88 ms
- *内存消耗：35.7 MB
+ * 内存消耗：35.7 MB
+ * 时间复杂度：O(1)
+ * 空间复杂度：O(1)
  * @param {string} str
  * @return {number}
  */
