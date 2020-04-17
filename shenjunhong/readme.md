@@ -27,3 +27,9 @@
 4. [分割平衡字符串](./week4-string/分割平衡字符串.js)
 5. [括号](./week4-string/括号.js)
 6. [实现 strStr()](./week4-string/实现strStr().js)
+
+## [树](./week5-tree)
+
+1. [路径总和III](./week5-tree/路径总和III.js)
+2. [找出克隆二叉树中的相同节点](./找出克隆二叉树中的相同节点.js)
+
