@@ -1,5 +1,5 @@
 // 路径总和
-// 时间复杂度：
+// 时间复杂度：nlogn
 // 空间复杂度：1
 // 解题方法：递归
 var hasPathSum = function(root, sum) {

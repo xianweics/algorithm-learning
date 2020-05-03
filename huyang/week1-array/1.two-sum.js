@@ -1,5 +1,5 @@
 // 两数之和
-// 时间复杂度：n
+// 时间复杂度：n*n
 // 空间复杂度：1
 var twoSum = function(nums, target) {
     for(let i=0; i< nums.length-1; i++){
